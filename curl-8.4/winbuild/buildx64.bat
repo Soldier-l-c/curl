@@ -1,0 +1,1 @@
+nmake /f Makefile.vc mode=static VC=16 MACHINE=x64 DEBUG=no WITH_SSL=static WITH_ZLIB=static WITH_PREFIX=C:\Users\Administrator\Desktop\Develop\curl_x64\ SSL_PATH=C:\Users\Administrator\Desktop\Develop\openssl\release\mt\x64\ ZLIB_PATH=C:\Users\Administrator\Desktop\Develop\zlib-1.3.1\lib\x64\mt\ /NODEFAULTLIB:library
